@@ -1,0 +1,20 @@
+# Kişisel veri ve gizli bilgiler — ASLA yüklenmemeli
+*.db
+*.db-wal
+*.db-shm
+veri_anahtari.bin
+*kurtarma_anahtari*
+yedekler/
+harita_onbellek.db
+
+# Derleme çıktıları
+build/
+dist/
+*.exe
+__pycache__/
+*.pyc
+
+# Diğer
+*.pptx
+.DS_Store
+Thumbs.db

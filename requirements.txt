@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+matplotlib
+reportlab
+openpyxl
+tkintermapview
+cryptography
+pyinstaller
